@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand colors -->
+    <color name="colorPrimary">#2196F3</color>          <!-- Material Blue 500 -->
+    <color name="colorPrimaryDark">#1976D2</color>      <!-- Material Blue 700 -->
+    <color name="colorPrimaryLight">#BBDEFB</color>     <!-- Material Blue 100 -->
+    <color name="colorAccent">#FF4081</color>           <!-- Pink A200 -->
+
+    <!-- Neutral colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey_50">#FAFAFA</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="grey_700">#616161</color>
+
+    <!-- Background gradient colors -->
+    <color name="gradientStart">#2196F3</color>         <!-- Same as colorPrimary -->
+    <color name="gradientEnd">#1976D2</color>           <!-- Same as colorPrimaryDark -->
+</resources>
